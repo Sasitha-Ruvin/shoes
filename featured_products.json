@@ -4,7 +4,7 @@
       "name": "Premium Running Shoes",
       "description": "High-performance running shoes with advanced cushioning",
       "price": 129.99,
-      "imageUrl": "shoe32",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/shoe1.png",
       "category": "Running",
       "available": true,
       "sizes": ["7", "8", "9", "10", "11"]
@@ -14,7 +14,7 @@
       "name": "Casual Sneakers",
       "description": "Comfortable everyday sneakers with modern design",
       "price": 89.99,
-      "imageUrl": "shoe366",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/shoe1.png",
       "category": "Casual",
       "available": true,
       "sizes": ["6", "7", "8", "9", "10"]
@@ -24,7 +24,7 @@
       "name": "Basketball High-Tops",
       "description": "Professional basketball shoes with ankle support",
       "price": 149.99,
-      "imageUrl": "shoe37",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/shoe1.png",
       "category": "Basketball",
       "available": true,
       "sizes": ["8", "9", "10", "11", "12"]
@@ -34,7 +34,7 @@
       "name": "Hiking Boots",
       "description": "Durable hiking boots for all terrain adventures",
       "price": 179.99,
-      "imageUrl": "shoe26",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/shoe1.png",
       "category": "Outdoor",
       "available": false,
       "sizes": ["7", "8", "9", "10"]

@@ -2,22 +2,22 @@
     {
       "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/1.png",
       "name": "Nike Air Max 270", 
-      "price": 18.99
+      "price": 180000
     },
     {
       "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/2.png",
       "name": "Puma Suede Classic", 
-      "price": 19.59
+      "price": 19100
     },
     {
       "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/3.png",
       "name": "Puma Suede Classic XL", 
-      "price": 15.99
+      "price": 15000
     },
     {
       "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/shoes/main/4.png",
       "name": "New Balance 574", 
-      "price": 25.99
+      "price": 25000
     }
   ]
   
